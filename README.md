@@ -1,1 +1,1 @@
-Going over the React Challenges from the beta documentation
+Going over the React State Challenges from https://beta.reactjs.org/
